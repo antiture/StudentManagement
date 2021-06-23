@@ -1,0 +1,6 @@
+C:\Users\max\Documents\StudentManagement\2dArrays\bin\Debug\2dArrays.exe.config
+C:\Users\max\Documents\StudentManagement\2dArrays\bin\Debug\2dArrays.exe
+C:\Users\max\Documents\StudentManagement\2dArrays\bin\Debug\2dArrays.pdb
+C:\Users\max\Documents\StudentManagement\2dArrays\obj\Debug\2dArrays.csproj.CoreCompileInputs.cache
+C:\Users\max\Documents\StudentManagement\2dArrays\obj\Debug\2dArrays.exe
+C:\Users\max\Documents\StudentManagement\2dArrays\obj\Debug\2dArrays.pdb

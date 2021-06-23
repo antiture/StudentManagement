@@ -1,0 +1,7 @@
+C:\Users\max\Documents\StudentManagement\17 GettersSetters\bin\Debug\GettersSetters.exe.config
+C:\Users\max\Documents\StudentManagement\17 GettersSetters\bin\Debug\GettersSetters.exe
+C:\Users\max\Documents\StudentManagement\17 GettersSetters\bin\Debug\GettersSetters.pdb
+C:\Users\max\Documents\StudentManagement\17 GettersSetters\obj\Debug\GettersSetters.csprojAssemblyReference.cache
+C:\Users\max\Documents\StudentManagement\17 GettersSetters\obj\Debug\GettersSetters.csproj.CoreCompileInputs.cache
+C:\Users\max\Documents\StudentManagement\17 GettersSetters\obj\Debug\GettersSetters.exe
+C:\Users\max\Documents\StudentManagement\17 GettersSetters\obj\Debug\GettersSetters.pdb

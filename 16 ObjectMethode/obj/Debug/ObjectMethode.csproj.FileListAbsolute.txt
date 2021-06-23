@@ -1,0 +1,7 @@
+C:\Users\max\Documents\StudentManagement\16 ObjectMethode\bin\Debug\ObjectMethode.exe.config
+C:\Users\max\Documents\StudentManagement\16 ObjectMethode\bin\Debug\ObjectMethode.exe
+C:\Users\max\Documents\StudentManagement\16 ObjectMethode\bin\Debug\ObjectMethode.pdb
+C:\Users\max\Documents\StudentManagement\16 ObjectMethode\obj\Debug\ObjectMethode.csprojAssemblyReference.cache
+C:\Users\max\Documents\StudentManagement\16 ObjectMethode\obj\Debug\ObjectMethode.csproj.CoreCompileInputs.cache
+C:\Users\max\Documents\StudentManagement\16 ObjectMethode\obj\Debug\ObjectMethode.exe
+C:\Users\max\Documents\StudentManagement\16 ObjectMethode\obj\Debug\ObjectMethode.pdb

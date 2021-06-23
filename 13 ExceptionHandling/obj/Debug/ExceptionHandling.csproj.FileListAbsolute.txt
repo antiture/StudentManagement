@@ -1,0 +1,6 @@
+C:\Users\max\Documents\StudentManagement\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\max\Documents\StudentManagement\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\max\Documents\StudentManagement\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\max\Documents\StudentManagement\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\max\Documents\StudentManagement\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\max\Documents\StudentManagement\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

@@ -1,0 +1,7 @@
+C:\Users\max\Documents\StudentManagement\ExponentMethod\bin\Debug\ExponentMethod.exe.config
+C:\Users\max\Documents\StudentManagement\ExponentMethod\bin\Debug\ExponentMethod.exe
+C:\Users\max\Documents\StudentManagement\ExponentMethod\bin\Debug\ExponentMethod.pdb
+C:\Users\max\Documents\StudentManagement\ExponentMethod\obj\Debug\ExponentMethod.csprojAssemblyReference.cache
+C:\Users\max\Documents\StudentManagement\ExponentMethod\obj\Debug\ExponentMethod.csproj.CoreCompileInputs.cache
+C:\Users\max\Documents\StudentManagement\ExponentMethod\obj\Debug\ExponentMethod.exe
+C:\Users\max\Documents\StudentManagement\ExponentMethod\obj\Debug\ExponentMethod.pdb

@@ -1,0 +1,6 @@
+C:\Users\max\Documents\StudentManagement\ClassesObjects\bin\Debug\ClassesObjects.exe.config
+C:\Users\max\Documents\StudentManagement\ClassesObjects\bin\Debug\ClassesObjects.exe
+C:\Users\max\Documents\StudentManagement\ClassesObjects\bin\Debug\ClassesObjects.pdb
+C:\Users\max\Documents\StudentManagement\ClassesObjects\obj\Debug\ClassesObjectsConstructors.csproj.CoreCompileInputs.cache
+C:\Users\max\Documents\StudentManagement\ClassesObjects\obj\Debug\ClassesObjects.exe
+C:\Users\max\Documents\StudentManagement\ClassesObjects\obj\Debug\ClassesObjects.pdb
