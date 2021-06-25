@@ -1,0 +1,7 @@
+C:\Users\max\Documents\StudentManagement\03 BuildingACalculator\bin\Debug\BuildingACalculator.exe.config
+C:\Users\max\Documents\StudentManagement\03 BuildingACalculator\bin\Debug\BuildingACalculator.exe
+C:\Users\max\Documents\StudentManagement\03 BuildingACalculator\bin\Debug\BuildingACalculator.pdb
+C:\Users\max\Documents\StudentManagement\03 BuildingACalculator\obj\Debug\BuildingACalculator.csprojAssemblyReference.cache
+C:\Users\max\Documents\StudentManagement\03 BuildingACalculator\obj\Debug\BuildingACalculator.csproj.CoreCompileInputs.cache
+C:\Users\max\Documents\StudentManagement\03 BuildingACalculator\obj\Debug\BuildingACalculator.exe
+C:\Users\max\Documents\StudentManagement\03 BuildingACalculator\obj\Debug\BuildingACalculator.pdb

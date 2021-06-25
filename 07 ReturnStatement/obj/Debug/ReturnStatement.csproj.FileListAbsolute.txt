@@ -1,0 +1,7 @@
+C:\Users\max\Documents\StudentManagement\07 ReturnStatement\bin\Debug\ReturnStatement.exe.config
+C:\Users\max\Documents\StudentManagement\07 ReturnStatement\bin\Debug\ReturnStatement.exe
+C:\Users\max\Documents\StudentManagement\07 ReturnStatement\bin\Debug\ReturnStatement.pdb
+C:\Users\max\Documents\StudentManagement\07 ReturnStatement\obj\Debug\ReturnStatement.csprojAssemblyReference.cache
+C:\Users\max\Documents\StudentManagement\07 ReturnStatement\obj\Debug\ReturnStatement.csproj.CoreCompileInputs.cache
+C:\Users\max\Documents\StudentManagement\07 ReturnStatement\obj\Debug\ReturnStatement.exe
+C:\Users\max\Documents\StudentManagement\07 ReturnStatement\obj\Debug\ReturnStatement.pdb

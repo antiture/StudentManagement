@@ -1,0 +1,6 @@
+C:\Users\max\Documents\StudentManagement\SwitchStatemants\bin\Debug\SwitchStatemants.exe.config
+C:\Users\max\Documents\StudentManagement\SwitchStatemants\bin\Debug\SwitchStatemants.exe
+C:\Users\max\Documents\StudentManagement\SwitchStatemants\bin\Debug\SwitchStatemants.pdb
+C:\Users\max\Documents\StudentManagement\SwitchStatemants\obj\Debug\SwitchStatemants.csproj.CoreCompileInputs.cache
+C:\Users\max\Documents\StudentManagement\SwitchStatemants\obj\Debug\SwitchStatemants.exe
+C:\Users\max\Documents\StudentManagement\SwitchStatemants\obj\Debug\SwitchStatemants.pdb

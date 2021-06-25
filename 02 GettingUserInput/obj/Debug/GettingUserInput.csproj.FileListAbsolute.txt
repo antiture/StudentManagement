@@ -1,0 +1,7 @@
+C:\Users\max\source\repos\GettingUserInput\bin\Debug\GettingUserInput.exe.config
+C:\Users\max\source\repos\GettingUserInput\bin\Debug\GettingUserInput.exe
+C:\Users\max\source\repos\GettingUserInput\bin\Debug\GettingUserInput.pdb
+C:\Users\max\source\repos\GettingUserInput\obj\Debug\GettingUserInput.csprojAssemblyReference.cache
+C:\Users\max\source\repos\GettingUserInput\obj\Debug\GettingUserInput.csproj.CoreCompileInputs.cache
+C:\Users\max\source\repos\GettingUserInput\obj\Debug\GettingUserInput.exe
+C:\Users\max\source\repos\GettingUserInput\obj\Debug\GettingUserInput.pdb

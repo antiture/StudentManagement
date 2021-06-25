@@ -1,0 +1,7 @@
+C:\Users\max\Documents\StudentManagement\18 StaticClassAttributes\bin\Debug\StaticClassAttributes.exe.config
+C:\Users\max\Documents\StudentManagement\18 StaticClassAttributes\bin\Debug\StaticClassAttributes.exe
+C:\Users\max\Documents\StudentManagement\18 StaticClassAttributes\bin\Debug\StaticClassAttributes.pdb
+C:\Users\max\Documents\StudentManagement\18 StaticClassAttributes\obj\Debug\StaticClassAttributes.csprojAssemblyReference.cache
+C:\Users\max\Documents\StudentManagement\18 StaticClassAttributes\obj\Debug\StaticClassAttributes.csproj.CoreCompileInputs.cache
+C:\Users\max\Documents\StudentManagement\18 StaticClassAttributes\obj\Debug\StaticClassAttributes.exe
+C:\Users\max\Documents\StudentManagement\18 StaticClassAttributes\obj\Debug\StaticClassAttributes.pdb

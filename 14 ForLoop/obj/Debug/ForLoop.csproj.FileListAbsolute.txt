@@ -1,0 +1,6 @@
+C:\Users\max\Documents\StudentManagement\ForLoop\bin\Debug\ForLoop.exe.config
+C:\Users\max\Documents\StudentManagement\ForLoop\bin\Debug\ForLoop.exe
+C:\Users\max\Documents\StudentManagement\ForLoop\bin\Debug\ForLoop.pdb
+C:\Users\max\Documents\StudentManagement\ForLoop\obj\Debug\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\max\Documents\StudentManagement\ForLoop\obj\Debug\ForLoop.exe
+C:\Users\max\Documents\StudentManagement\ForLoop\obj\Debug\ForLoop.pdb

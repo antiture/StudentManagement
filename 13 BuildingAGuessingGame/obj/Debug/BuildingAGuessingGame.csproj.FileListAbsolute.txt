@@ -1,0 +1,7 @@
+C:\Users\max\Documents\StudentManagement\BuildingAGuessingGame\bin\Debug\BuildingAGuessingGame.exe.config
+C:\Users\max\Documents\StudentManagement\BuildingAGuessingGame\bin\Debug\BuildingAGuessingGame.exe
+C:\Users\max\Documents\StudentManagement\BuildingAGuessingGame\bin\Debug\BuildingAGuessingGame.pdb
+C:\Users\max\Documents\StudentManagement\BuildingAGuessingGame\obj\Debug\BuildingAGuessingGame.csprojAssemblyReference.cache
+C:\Users\max\Documents\StudentManagement\BuildingAGuessingGame\obj\Debug\BuildingAGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\max\Documents\StudentManagement\BuildingAGuessingGame\obj\Debug\BuildingAGuessingGame.exe
+C:\Users\max\Documents\StudentManagement\BuildingAGuessingGame\obj\Debug\BuildingAGuessingGame.pdb

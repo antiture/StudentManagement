@@ -1,0 +1,7 @@
+C:\Users\max\Documents\StudentManagement\BuildingABetterCalculator\bin\Debug\BuildingABetterCalculator.exe.config
+C:\Users\max\Documents\StudentManagement\BuildingABetterCalculator\bin\Debug\BuildingABetterCalculator.exe
+C:\Users\max\Documents\StudentManagement\BuildingABetterCalculator\bin\Debug\BuildingABetterCalculator.pdb
+C:\Users\max\Documents\StudentManagement\BuildingABetterCalculator\obj\Debug\BuildingABetterCalculator.csprojAssemblyReference.cache
+C:\Users\max\Documents\StudentManagement\BuildingABetterCalculator\obj\Debug\BuildingABetterCalculator.csproj.CoreCompileInputs.cache
+C:\Users\max\Documents\StudentManagement\BuildingABetterCalculator\obj\Debug\BuildingABetterCalculator.exe
+C:\Users\max\Documents\StudentManagement\BuildingABetterCalculator\obj\Debug\BuildingABetterCalculator.pdb

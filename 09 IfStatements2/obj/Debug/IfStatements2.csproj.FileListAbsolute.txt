@@ -1,0 +1,7 @@
+C:\Users\max\Documents\StudentManagement\09 IfStatements2\bin\Debug\IfStatements2.exe.config
+C:\Users\max\Documents\StudentManagement\09 IfStatements2\bin\Debug\IfStatements2.exe
+C:\Users\max\Documents\StudentManagement\09 IfStatements2\bin\Debug\IfStatements2.pdb
+C:\Users\max\Documents\StudentManagement\09 IfStatements2\obj\Debug\IfStatements2.csprojAssemblyReference.cache
+C:\Users\max\Documents\StudentManagement\09 IfStatements2\obj\Debug\IfStatements2.csproj.CoreCompileInputs.cache
+C:\Users\max\Documents\StudentManagement\09 IfStatements2\obj\Debug\IfStatements2.exe
+C:\Users\max\Documents\StudentManagement\09 IfStatements2\obj\Debug\IfStatements2.pdb

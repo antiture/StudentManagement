@@ -1,0 +1,7 @@
+C:\Users\max\Documents\StudentManagement\19 StaticMethodesClasses\bin\Debug\StaticMethodesClasses.exe.config
+C:\Users\max\Documents\StudentManagement\19 StaticMethodesClasses\bin\Debug\StaticMethodesClasses.exe
+C:\Users\max\Documents\StudentManagement\19 StaticMethodesClasses\bin\Debug\StaticMethodesClasses.pdb
+C:\Users\max\Documents\StudentManagement\19 StaticMethodesClasses\obj\Debug\StaticMethodesClasses.csprojAssemblyReference.cache
+C:\Users\max\Documents\StudentManagement\19 StaticMethodesClasses\obj\Debug\StaticMethodesClasses.csproj.CoreCompileInputs.cache
+C:\Users\max\Documents\StudentManagement\19 StaticMethodesClasses\obj\Debug\StaticMethodesClasses.exe
+C:\Users\max\Documents\StudentManagement\19 StaticMethodesClasses\obj\Debug\StaticMethodesClasses.pdb

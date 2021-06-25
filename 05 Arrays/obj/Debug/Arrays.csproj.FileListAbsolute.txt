@@ -1,0 +1,7 @@
+C:\Users\max\Documents\StudentManagement\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\max\Documents\StudentManagement\Arrays\bin\Debug\Arrays.exe
+C:\Users\max\Documents\StudentManagement\Arrays\bin\Debug\Arrays.pdb
+C:\Users\max\Documents\StudentManagement\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+C:\Users\max\Documents\StudentManagement\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\max\Documents\StudentManagement\Arrays\obj\Debug\Arrays.exe
+C:\Users\max\Documents\StudentManagement\Arrays\obj\Debug\Arrays.pdb

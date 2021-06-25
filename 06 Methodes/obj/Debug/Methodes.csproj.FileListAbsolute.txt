@@ -1,0 +1,7 @@
+C:\Users\max\Documents\StudentManagement\Methodes\bin\Debug\Methodes.exe.config
+C:\Users\max\Documents\StudentManagement\Methodes\bin\Debug\Methodes.exe
+C:\Users\max\Documents\StudentManagement\Methodes\bin\Debug\Methodes.pdb
+C:\Users\max\Documents\StudentManagement\Methodes\obj\Debug\Methodes.csprojAssemblyReference.cache
+C:\Users\max\Documents\StudentManagement\Methodes\obj\Debug\Methodes.csproj.CoreCompileInputs.cache
+C:\Users\max\Documents\StudentManagement\Methodes\obj\Debug\Methodes.exe
+C:\Users\max\Documents\StudentManagement\Methodes\obj\Debug\Methodes.pdb
